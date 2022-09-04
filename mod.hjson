@@ -1,0 +1,10 @@
+{
+  name: "sus"
+  displayName: "Sus"
+  description: "Sus Texture pack for Mindustry!"
+  author: Rex Aliis (Discord ID: 612122239428722720)
+  version: "1.0"
+  minGameVersion: "126"
+  dependencies: []
+  hidden: true
+}
